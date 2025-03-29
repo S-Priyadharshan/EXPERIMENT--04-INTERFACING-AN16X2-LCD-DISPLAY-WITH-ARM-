@@ -211,8 +211,8 @@ void lcd_display(){
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- [EXP_4.pdf](https://github.com/user-attachments/files/19515764/EXP_4.pdf)
- 
+![image](https://github.com/user-attachments/assets/140c5111-ecfc-40da-b9b5-369fbe34dac6)
+
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
 
